@@ -18,24 +18,36 @@ A complete personal portfolio website built with pure HTML, CSS & JavaScript.
 
 ## 📌 Sections
 
-- Hero — typing animation, spinning photo ring, particles
-- About — info, skills summary, CV download
-- Services — Web Dev, Mobile Dev, UI/UX, Database
-- Skills — tabbed circular progress rings
-- Projects — 6 cards with image sliders
-- Education — timeline
-- Contact — EmailJS form
+- **Hero** — typing animation, spinning photo ring, particles
+- **About** — info, skills summary, CV download
+- **Services** — Web Dev, Mobile Dev, UI/UX, Database
+- **Skills** — tabbed circular progress rings
+- **Projects** — 6 cards with image sliders
+- **Education** — timeline
+- **Contact** — EmailJS form
 
 ---
 
 ## 🚀 Projects Featured
 
-1. Shop Rental Management System — PHP, MySQL
-2. TaskFlow — Task Manager — PHP, MySQL
-3. FoodieHub — Restaurant Website — HTML, CSS, JS
-4. FitZone — Gym Website — HTML, CSS, Bootstrap
-5. School Fee & Attendance System — PHP, MySQL
-6. Madrassa Al-Noor Website — HTML, CSS
+| # | Project | Tech Stack |
+|---|---------|------------|
+| 1 | [Shop Rental Management System](https://github.com/Rifaqajmal/rental-management-system) | PHP, MySQL |
+| 2 | [TaskFlow — Task Manager](https://github.com/Rifaqajmal/taskflow-webapp-to-do-app) | PHP, MySQL |
+| 3 | [FoodieHub — Restaurant Website](https://github.com/Rifaqajmal/foodiehub-Website) | HTML, CSS, JS |
+| 4 | [FitZone — Gym Website](https://github.com/Rifaqajmal/FitZone-Gym-Website) | HTML, CSS, Bootstrap |
+| 5 | School Fee & Attendance System | PHP, MySQL |
+| 6 | [Madrassa Al-Noor Website](https://github.com/Rifaqajmal/madrassa-website) | HTML, CSS |
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Rifaqajmal/rifaqajmal.github.io.git
+cd rifaqajmal.github.io
+# open index.html in your browser
+```
 
 ---
 
@@ -43,8 +55,8 @@ A complete personal portfolio website built with pure HTML, CSS & JavaScript.
 
 - 📧 rifaqajmalmohmand@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/rifaq-ajmal-4b5a513b3)
-- 🐙 [GitHub](https://github.com/rifaqajmal)
+- 🐙 [GitHub](https://github.com/Rifaqajmal)
 
 ---
 
-© 2025 Rifaq Ajmal
+© 2026 Rifaq Ajmal
