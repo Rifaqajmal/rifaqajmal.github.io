@@ -104,12 +104,14 @@
       if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { show('Please enter a valid email address.', 'error'); return; }
       if (typeof emailjs === 'undefined') { show('The form could not load. Please email me directly instead.', 'error'); return; }
       submit.disabled = true; submit.textContent = 'Sending...';
-      emailjs.send('service_tbt0kus', 'dbnt8e2', {
+      emailjs.send('service_kpvj5l6', 'template_3oy4pem', {
+        name: name, email: email, title: subject, time: new Date().toLocaleString(),
         from_name: name, from_email: email, subject: subject, message: message,
         to_email: 'rifaqajmalmohmand@gmail.com'
       }).then(function () {
         show('Message sent. I will reply as soon as I can.', 'success'); form.reset();
-      }).catch(function () {
+      }).catch(function (err) {
+        if (window.console) console.error('EmailJS error:', err);
         show('The message could not be sent. Please try again or email me directly.', 'error');
       }).then(function () { submit.disabled = false; submit.textContent = 'Send message'; });
     });
