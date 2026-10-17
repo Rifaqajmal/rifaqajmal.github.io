@@ -1,62 +1,16 @@
-# 👨‍💻 Rifaq Ajmal — Personal Portfolio
+# Rifaq Ajmal — Portfolio
 
-A complete personal portfolio website built with pure HTML, CSS & JavaScript.
+Personal portfolio of Rifaq Ajmal, Full Stack Web Developer (BS Computer Science, UET Mardan).
 
-🌐 **Live:** [rifaqajmal.github.io](https://rifaqajmal.github.io)
+**Live:** https://rifaqajmal.github.io
 
----
+## Contents
+- Projects (client work, internship, full-stack systems, frontend, mobile & desktop) with filter tabs
+- Experience, education, skills and a contact form
+- Downloadable CV
 
-## 🛠️ Built With
+## Tech
+HTML5, CSS3 and vanilla JavaScript. No build step. Contact form uses EmailJS.
 
-- HTML5, CSS3, JavaScript (no frameworks)
-- Font Awesome Icons
-- Google Fonts (Syne + Poppins)
-- EmailJS (contact form)
-- GitHub Pages (deployment)
-
----
-
-## 📌 Sections
-
-- **Hero** — typing animation, spinning photo ring, particles
-- **About** — info, skills summary, CV download
-- **Services** — Web Dev, Mobile Dev, UI/UX, Database
-- **Skills** — tabbed circular progress rings
-- **Projects** — 6 cards with image sliders
-- **Education** — timeline
-- **Contact** — EmailJS form
-
----
-
-## 🚀 Projects Featured
-
-| # | Project | Tech Stack |
-|---|---------|------------|
-| 1 | [Shop Rental Management System](https://github.com/Rifaqajmal/rental-management-system) | PHP, MySQL |
-| 2 | [TaskFlow — Task Manager](https://github.com/Rifaqajmal/taskflow-webapp-to-do-app) | PHP, MySQL |
-| 3 | [FoodieHub — Restaurant Website](https://github.com/Rifaqajmal/foodiehub-Website) | HTML, CSS, JS |
-| 4 | [FitZone — Gym Website](https://github.com/Rifaqajmal/FitZone-Gym-Website) | HTML, CSS, Bootstrap |
-| 5 | School Fee & Attendance System | PHP, MySQL |
-| 6 | [Madrassa Al-Noor Website](https://github.com/Rifaqajmal/madrassa-website) | HTML, CSS |
-
----
-
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/Rifaqajmal/rifaqajmal.github.io.git
-cd rifaqajmal.github.io
-# open index.html in your browser
-```
-
----
-
-## 📬 Contact
-
-- 📧 rifaqajmalmohmand@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/rifaq-ajmal-4b5a513b3)
-- 🐙 [GitHub](https://github.com/Rifaqajmal)
-
----
-
-© 2026 Rifaq Ajmal
+## Run locally
+Open `index.html` in a browser, or serve the folder with `python -m http.server`.
